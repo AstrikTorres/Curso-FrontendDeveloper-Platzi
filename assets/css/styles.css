@@ -119,6 +119,7 @@ body {
     text-decoration: underline;
 }
 .input {
+    color: #fff;
     background-color: transparent;
     border-top: 0px;
     border-right: 0px;
